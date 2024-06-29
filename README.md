@@ -10,6 +10,10 @@
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Artificial Neural Network (ANN)
+- Logistic Regression
+### Ensemble Learning
+- XGBoost
+- Random Forest
 ### Reinforcement Learning
 ### Intro To Deep Learning
 - CNN (Convolutional Neural Network) -> Just a brief explanation
